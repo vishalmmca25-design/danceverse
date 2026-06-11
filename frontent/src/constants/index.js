@@ -4,7 +4,7 @@
  * Import from here — never hard-code values in components.
  */
 
-export const SERVER_URL  = "http://localhost:3001";
+export const SERVER_URL  = "https://danceverse-2.onrender.com";
 export const GRAVITY     = -0.012;
 export const JUMP_FORCE  =  0.22;
 
